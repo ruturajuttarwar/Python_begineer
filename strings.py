@@ -1,4 +1,4 @@
-me = "Caleb"
+me = "Ruturaj"
 
 #escape character example
 print("\n")
@@ -8,7 +8,7 @@ me = "C\ta\tl\te\tb\n"
 print(me)
 
 #can also use single quotes
-you = 'Subscriber'
+you = 'Developer'
 
 me = "Caleb" #reset to normal
 
